@@ -69,7 +69,7 @@
       {"rule_set": "geosite-youtube", "outbound": "📹 YouTube"},
       {"rule_set": "geosite-google", "outbound": "🍀 Google"},
       {"rule_set": "geosite-onedrive", "outbound": "🐬 OneDrive"},
-      {"rule_set": "geosite-microsoft","geosite-github", "outbound": "🪟 Microsoft"},
+      {"rule_set": ["geosite-microsoft","geosite-github"], "outbound": "🪟 Microsoft"},
       {"rule_set": "geosite-apple", "outbound": "🍏 Apple"},
       {"rule_set": "geosite-telegram", "outbound": "📲 Telegram"},
       {"rule_set": "geosite-tiktok", "outbound": "🎵 TikTok"},
