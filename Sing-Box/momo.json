@@ -68,7 +68,7 @@
       {"rule_set": "geosite-bilibili", "outbound": "📺 Bilibili"},
       {"rule_set": "geosite-youtube", "outbound": "📹 YouTube"},
       {"rule_set": "geosite-google", "outbound": "🍀 Google"},
-      {"rule_set": "geosite-github", "outbound": "👨‍💻 Github"},
+      {"rule_set": "geosite-github", "outbound": "🪟 Microsoft"},
       {"rule_set": "geosite-onedrive", "outbound": "🐬 OneDrive"},
       {"rule_set": "geosite-microsoft", "outbound": "🪟 Microsoft"},
       {"rule_set": "geosite-apple", "outbound": "🍏 Apple"},
