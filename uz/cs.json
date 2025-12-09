@@ -1,0 +1,11 @@
+[
+   {
+    "name": "[禁] jiejie",
+    "version": 3,
+    "webSite": "https://wap.jiejiesp19.xyz",
+    "instance": "jiejie20240831",
+    "order": "E",
+    "api": "https://raw.githubusercontent.com/vlans67/selfproxy/refs/heads/main/uz/jin_jiejie.js",
+    "type": 100
+  }
+]
