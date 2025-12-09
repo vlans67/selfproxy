@@ -16,7 +16,7 @@ import { } from '../../core/uzUtils.js'
 class JiejieClass extends WebApiBase {
     constructor() {
         super()
-        this.webSite = 'https://wap.jiejiesp19.xyz
+        this.webSite = 'https://wap.jiejiesp19.xyz' 
         this.headers = {
             'User-Agent': 'Mozilla/5.0',
             'Accept-language': 'zh-CN,zh;q=0.9',
